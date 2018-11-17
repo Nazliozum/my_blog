@@ -38,7 +38,7 @@ date_format = "January 2006"
   company_url = "https://www.trendyol.com/"
   location = "Istanbul, Turkey"
   date_start = "2016-02-01"
-  date_end = "2016-06-31"
+  date_end = "2016-06-30"
   description = """
   Responsibilities include:
   
