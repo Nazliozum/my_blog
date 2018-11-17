@@ -16,10 +16,6 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Management Information Systems"
-  institution = "UBC Sauder School of Business"
-  year = 2018-
 
 [[education.courses]]
   course = "Master of Data Science in Artificial Intelligence"
