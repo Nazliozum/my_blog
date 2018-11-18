@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
-  course = "Master of Data Science in Artificial Intelligence"
+  course = "Master of Data Science"
   institution = "University of British Columbia"
   year = 2018
 

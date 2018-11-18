@@ -15,8 +15,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
 I am currently a teaching assistant for the following courses at the University of British Columbia:
 
 - DSCI 522: Data Science Workflows

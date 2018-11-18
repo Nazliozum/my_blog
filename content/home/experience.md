@@ -21,7 +21,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Assistant"
   company = "UBC Sauder School of Business"
-  company_url = ""
+  company_url = "https://www.sauder.ubc.ca/"
   location = "Vancouver, Canada"
   date_start = "2018-03-01"
   date_end = ""
