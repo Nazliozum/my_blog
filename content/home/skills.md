@@ -28,15 +28,21 @@ weight = 7
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Python"
+  description = "80%"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Econometrics"
+  description = "80%"  
+  
+[[feature]]
+  icon = "cogs"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "80%" 
+  
 +++
