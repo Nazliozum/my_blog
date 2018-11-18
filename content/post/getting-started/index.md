@@ -7,9 +7,9 @@ lastmod = 2018-11-17T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Nazlı Özüm Kafaee"]
 
-tags = ["Academic"]
+tags = []
 summary = "First post"
 
 # Projects (optional).
@@ -32,5 +32,7 @@ summary = "First post"
 
   # Show image only in page previews?
   preview_only = false
+  
++++
 
 To-be-filled
