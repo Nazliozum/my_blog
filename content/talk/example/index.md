@@ -1,6 +1,6 @@
 +++
 title = "Creating Interactive Data Application with R-Shiny for Beginners"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2018-05-24T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -49,7 +49,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/R-Ladies-Vancouver/May2018-Shiny-App"
+url_material = "https://github.com/R-Ladies-Vancouver/May2018-Shiny-App"
 
 # Does the content use math formatting?
 math = true
@@ -64,7 +64,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
